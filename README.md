@@ -33,7 +33,8 @@ Zephyr-7B
 <img width="1108" alt="image" src="https://github.com/maghwa/Smart-Farmer/assets/87017143/5152e5c6-df35-4943-ab51-bbf9da1a82fd">
 
 
-💻 Instructions :
+
+## 💻 Instructions :
 
 git clone https://huggingface.co/spaces/smart-fellah/Smart-fellah
 pip install -r requirements.txt
