@@ -37,5 +37,7 @@ Zephyr-7B
 ## 💻 Instructions :
 
 git clone https://huggingface.co/spaces/smart-fellah/Smart-fellah
+
 pip install -r requirements.txt
+
 streamlit run app.py
