@@ -27,7 +27,9 @@ The project's impact is evident in its potential to empower farmers with insight
 ## 🤖 LLMs
 
 Mixtral-8x7B
+
 Seamless-m4t
+
 Zephyr-7B
 
 <img width="1108" alt="image" src="https://github.com/maghwa/Smart-Farmer/assets/87017143/5152e5c6-df35-4943-ab51-bbf9da1a82fd">
